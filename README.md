@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @annasprophecy
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning how to code in Java
+- 👀 I’m interested in Computer Science & UX Design
+- 🌱 Pronouns: she/her
 - 📫 You can reach me on instagram: @annasprophecy, linkedin: @anna-pham-cs
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I can sing Vietnamese karaoke 
 
 <!---
